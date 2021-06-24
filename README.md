@@ -1,3 +1,7 @@
+# Archived
+
+The parent repo has been updated to support null-safety, so consider using that if you have an issue with this.
+
 # slugify
 
 [![style: effective dart](https://img.shields.io/badge/style-effective_dart-40c4ff.svg)](https://pub.dev/packages/effective_dart) ![null-safe](https://img.shields.io/badge/-null--safety-blue)
